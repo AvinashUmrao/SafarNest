@@ -2,7 +2,7 @@
   "engines": {
     "node": "20"
   },
-  "name": "SafarNest",
+  "name": "wanderlust",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

@@ -51,7 +51,7 @@ A Full-Stack Vacation Rental Platform
 
 ## 🗺 Deployment
 
-**Live App:** [SafarNest on Render](https://wnaderlust-89l3.onrender.com/listings)
+**Live App:** [SafarNest on Render](https://safarnest-8im9.onrender.com)
 **Database:** MongoDB Atlas
 **Image Hosting:** Cloudinary
 
